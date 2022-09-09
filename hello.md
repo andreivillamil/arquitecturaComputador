@@ -77,9 +77,12 @@ suma = a+b
 ![visual studio logo](https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png "vscode logo")
 
 <!-- github markdown -->
-* [x] tarea 1
-* [] tarea 2
-* [x] tarea 3
-* [] tarea 4
+[x] tarea 1
+[] tarea 2
+[x] tarea 3
+[] tarea 4
 
 prueba 2
+prueba 3
+prueba 4
+prueba 5
